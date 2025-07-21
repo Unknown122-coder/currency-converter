@@ -1,15 +1,26 @@
 # 💱 Currency Converter Web App
 
-A modern, mobile-friendly currency converter built with Streamlit and FreeCurrencyAPI.
+A modern, real-time **Currency Converter** built with **Python** and **Streamlit**. This web app allows users to instantly convert between multiple global currencies using live exchange rates. Designed with simplicity and usability in mind.
 
-## Features
-- Live currency conversion using real-time exchange rates
-- Full currency names shown
-- Mobile responsive layout
-- Fast, modern web UI
+---
 
-## Run Locally
-streamlit run app.py
-=======
-# currency-converter
+## 🛠 Tech Stack
+
+- **Frontend & Backend**: [Streamlit](https://streamlit.io/)  
+- **Language**: Python  
+- **API**: [FreecurrencyAPI](https://freecurrencyapi.com/)  
+- **Environment Management**: `python-dotenv`
+
+---
+
+## 🚀 Features
+
+- 🔄 Real-time currency conversion using API
+- 💹 Supports multiple global currencies
+- ⚡ Fast and responsive web UI
+- 🎨 Custom styled interface
+- 🧠 Simple and intuitive input/output display
+
+
+
 
