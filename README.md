@@ -10,3 +10,6 @@ A modern, mobile-friendly currency converter built with Streamlit and FreeCurren
 
 ## Run Locally
 streamlit run app.py
+=======
+# currency-converter
+
