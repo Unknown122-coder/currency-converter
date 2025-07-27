@@ -6,7 +6,7 @@ A modern, real-time **Currency Converter** built with **Python** and **Streamlit
 
 ## 🛠 Tech Stack
 
-- **Frontend & Backend**: [Streamlit](https://streamlit.io/)  
+- **Frontend & Backend**: Streamlit
 - **Language**: Python  
 - **API**: [FreecurrencyAPI](https://freecurrencyapi.com/)  
 - **Environment Management**: `python-dotenv`
